@@ -6,7 +6,6 @@ Permite explorar, visualizar y hacer predicciones de precios usando diferentes f
 ---
 
 ## 📂 Estructura del proyecto
-    ```markdown
     ├── README.md
     ├── app.py
     ├── vehicles_us.csv
