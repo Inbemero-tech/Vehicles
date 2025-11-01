@@ -1,3 +1,6 @@
 pandas 
 plotly_express 
 streamlit 
+matplotlib
+seaborn
+scikit-learn
