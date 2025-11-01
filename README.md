@@ -9,6 +9,7 @@ Permite explorar, visualizar y hacer predicciones de precios usando diferentes f
     ├── README.md
     ├── app.py
     ├── vehicles_us.csv
+    ├── vehicles_us_clean.csv
     ├── requirements.txt
     └── notebooks
         └── EDA.ipynb
