@@ -6,13 +6,13 @@ Permite explorar, visualizar y hacer predicciones de precios usando diferentes f
 ---
 
 ## 📂 Estructura del proyecto
-
-├── README.md
-├── app.py
-├── vehicles_us.csv
-├── requirements.txt
-└── notebooks
-└── EDA.ipynb
+    ```markdown
+    ├── README.md
+    ├── app.py
+    ├── vehicles_us.csv
+    ├── requirements.txt
+    └── notebooks
+        └── EDA.ipynb
 
 - **app.py** → Archivo principal de la aplicación en Streamlit.  
 - **vehicles_us.csv** → Conjunto de datos usado para el análisis.  
